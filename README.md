@@ -1,5 +1,7 @@
 # DCEG-StatGen
 
+https://github.com/statgenetics/statgen-courses/tree/master/notebooks
+
 DCEG Statistical Genetics Workshop schedule for fall 2023
 
 Location: Rm 1106-A/B at the CRL Building, 9615 Medical Center Drive, Rockville, MD 20892/online
