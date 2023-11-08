@@ -18,7 +18,7 @@ https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_
 
 https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_3
 
-## Rare variants
 https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_4
 
+## Rare variants
 https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_5
