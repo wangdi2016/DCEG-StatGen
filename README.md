@@ -22,3 +22,6 @@ https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_
 
 ## Rare variants
 https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_5
+
+## TWAS and Mendelian Randomization
+https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_6
