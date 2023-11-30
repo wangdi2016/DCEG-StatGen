@@ -25,3 +25,9 @@ https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_
 
 ## TWAS and Mendelian Randomization
 https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_6
+
+##
+https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_7
+
+##
+https://dceg-workshops.github.io/statistical_genetics_workshop/sessions/session_8
