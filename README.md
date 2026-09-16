@@ -3,6 +3,8 @@
 ### 2026
 https://github.com/DCEG-workshops/statistical_genetics_workshop
 
+https://github.com/DCEG-workshops/statgen_workshop_tutorial
+
 ### 2023
 https://github.com/statgenetics/statgen-courses/tree/master/notebooks
 
