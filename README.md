@@ -1,5 +1,9 @@
 # DCEG-StatGen
 
+### 2026
+https://github.com/DCEG-workshops/statistical_genetics_workshop
+
+### 2023
 https://github.com/statgenetics/statgen-courses/tree/master/notebooks
 
 DCEG Statistical Genetics Workshop schedule for fall 2023
