@@ -1,6 +1,9 @@
 # DCEG-StatGen
 
-### 2026
+### 2026 DCEG Statistical Genetics Workshop
+
+https://dceg-workshops.github.io/statistical_genetics_workshop/
+
 https://github.com/DCEG-workshops/statistical_genetics_workshop
 
 https://github.com/DCEG-workshops/statgen_workshop_tutorial
